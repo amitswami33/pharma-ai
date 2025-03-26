@@ -1,0 +1,114 @@
+Symptom,Disease,Medicine 1,Medicine 2,Medicine 3
+Fever,Migraine,Sumatriptan,Ergotamine,Topiramate
+Headache,Tonsillitis,Amoxicillin,Clarithromycin,Ibuprofen
+Cough,Common Cold,Cetirizine,Pseudoephedrine,Paracetamol
+Fatigue,IBS,Hyoscine,Rifaximin,Loperamide
+Chest Pain,Tonsillitis,Amoxicillin,Clarithromycin,Ibuprofen
+Nausea,Vertigo,Meclizine,Betahistine,Diazepam
+Vomiting,Food Poisoning,ORS,Ciprofloxacin,Metronidazole
+Abdominal Pain,IBS,Hyoscine,Rifaximin,Loperamide
+Dizziness,Vertigo,Meclizine,Betahistine,Diazepam
+Sore Throat,Food Poisoning,ORS,Ciprofloxacin,Metronidazole
+Shortness of Breath,Vertigo,Meclizine,Betahistine,Diazepam
+Diarrhea,IBS,Hyoscine,Rifaximin,Loperamide
+Skin Rash,Heart Disease,Aspirin,Atorvastatin,Nitroglycerin
+Chest Pain,Diabetes,Ergotamine,Brufen,Dolo
+Stomach Ache,Arthritis,Pseudoephedrine,Amoxicillin,Hyoscine
+Fever,Pneumonia,Dolo,Cetirizine,Pseudoephedrine
+Diarrhea,Common Cold,Ergotamine,Loperamide,Ranitidine
+Shortness of Breath,Dengue,Paracetamol,Clarithro 500,Pseudoephedrine
+Stomach Ache,Diabetes,Hyoscine,Calpol,Amoxicillin
+Stomach Ache,Common Cold,Ergotamine,Cetirizine,Brufen
+Sore Throat,Psoriasis,Ibuprofen,Rifaximin,Loperamide
+Diarrhea,Common Cold,Dolo,Sumatriptan,Buscopan
+Diarrhea,Tonsillitis,Brufen,Clarithro 500,Rifaximin
+Headache,Malaria,Amoxicillin,Clarithro 500,Cetirizine
+Cough,Asthma,Cetrizine,Ranitidine,Paracetamol
+Sore Throat,Food Poisoning,Topiramate,Sumatriptan,Xifaxan
+Muscle Pain,Hypothyroidism,Paracetamol,Ranitidine,Rifaximin
+Cough,Diabetes,Brufen,Paracetamol,Ergotamine
+Anxiety,Psoriasis,Pseudoephedrine,Sumatriptan,Loperamide
+Back Pain,Hyperthyroidism,Ranitidine,Sumatriptan,Calpol
+Shortness of Breath,Anxiety Disorder,Amoxicillin,Xifaxan,Ergotamine
+Chest Pain,Pneumonia,Hyoscine,Calpol,Topiramate
+Fever,Tonsillitis,Ranitidine,Paracetamol,Ibuprofen
+Chest Pain,Migraine,Clarithro 500,Omeprazole,Sumatriptan
+Anxiety,GERD,Ergotamine,Buscopan,Brufen
+Skin Rash,Depression,Omeprazole,Buscopan,Paracetamol
+Dizziness,Anxiety Disorder,Topiramate,Sumatriptan,Cetrizine
+Skin Rash,Hypothyroidism,Xifaxan,Dolo,Omeprazole
+Sore Throat,Arthritis,Loperamide,Xifaxan,Dolo
+Sore Throat,Allergic Rhinitis,Rifaximin,Ibuprofen,Topiramate
+Headache,Diabetes,Rifaximin,Cetrizine,Omeprazole
+Heartburn,Psoriasis,Cetirizine,Pseudoephedrine,Calpol
+Dizziness,Asthma,Amoxicillin,Ranitidine,Brufen
+Stomach Ache,Food Poisoning,Omeprazole,Buscopan,Sumatriptan
+Dizziness,Hypothyroidism,Pseudoephedrine,Clarithro 500,Hyoscine
+Back Pain,Pneumonia,Paracetamol,Amoxicillin,Ranitidine
+Muscle Pain,Depression,Xifaxan,Brufen,Rifaximin
+Dizziness,IBS,Ranitidine,Rifaximin,Paracetamol
+Fatigue,Psoriasis,Ergotamine,Amoxicillin,Buscopan
+Nausea,Arthritis,Paracetamol,Rifaximin,Dolo
+Dizziness,Arthritis,Buscopan,Ergotamine,Cetrizine
+Back Pain,IBS,Ranitidine,Xifaxan,Paracetamol
+Constipation,Pneumonia,Cetrizine,Loperamide,Ranitidine
+Skin Rash,Migraine,Pseudoephedrine,Ranitidine,Hyoscine
+Diarrhea,Tonsillitis,Ibuprofen,Ergotamine,Topiramate
+Diarrhea,Arthritis,Hyoscine,Xifaxan,Brufen
+Constipation,Migraine,Clarithro 500,Loperamide,Cetirizine
+Heartburn,Hypertension,Xifaxan,Ergotamine,Pseudoephedrine
+Fatigue,Migraine,Topiramate,Ibuprofen,Ranitidine
+Nausea,Malaria,Paracetamol,Dolo,Loperamide
+Dizziness,Depression,Cetrizine,Brufen,Ranitidine
+Joint Pain,IBS,Ibuprofen,Cetirizine,Cetrizine
+Nausea,Common Cold,Ranitidine,Paracetamol,Amoxicillin
+Constipation,IBS,Ranitidine,Loperamide,Buscopan
+Skin Rash,Common Cold,Xifaxan,Cetrizine,Ranitidine
+Dizziness,Dengue,Cetrizine,Xifaxan,Brufen
+Anxiety,Arthritis,Cetirizine,Clarithro 500,Omeprazole
+Diarrhea,Hypothyroidism,Loperamide,Calpol,Paracetamol
+Fatigue,Malaria,Calpol,Ergotamine,Ibuprofen
+Sore Throat,Arthritis,Sumatriptan,Clarithro 500,Pseudoephedrine
+Headache,Psoriasis,Sumatriptan,Loperamide,Ergotamine
+Diarrhea,Psoriasis,Buscopan,Topiramate,Brufen
+Joint Pain,Hypothyroidism,Loperamide,Cetirizine,Sumatriptan
+Heartburn,Anxiety Disorder,Calpol,Ibuprofen,Cetrizine
+Cough,IBS,Dolo,Rifaximin,Buscopan
+Back Pain,GERD,Brufen,Ibuprofen,Pseudoephedrine
+Diarrhea,Tonsillitis,Rifaximin,Loperamide,Ranitidine
+Fever,Malaria,Cetrizine,Brufen,Buscopan
+Chest Pain,Dengue,Hyoscine,Calpol,Pseudoephedrine
+Joint Pain,Gastroenteritis,Amoxicillin,Buscopan,Omeprazole
+Joint Pain,Psoriasis,Ranitidine,Paracetamol,Dolo
+Back Pain,IBS,Amoxicillin,Ibuprofen,Cetrizine
+Skin Rash,Migraine,Omeprazole,Dolo,Cetirizine
+Depression,Tonsillitis,Topiramate,Ranitidine,Loperamide
+Shortness of Breath,Pneumonia,Xifaxan,Ibuprofen,Dolo
+Chest Pain,Food Poisoning,Hyoscine,Rifaximin,Loperamide
+Chest Pain,Diabetes,Sumatriptan,Dolo,Buscopan
+Heartburn,Hypertension,Brufen,Sumatriptan,Rifaximin
+Anxiety,Psoriasis,Dolo,Hyoscine,Brufen
+Skin Rash,Diabetes,Buscopan,Ergotamine,Xifaxan
+Diarrhea,Gastroenteritis,Clarithro 500,Cetrizine,Topiramate
+Chest Pain,Allergic Rhinitis,Loperamide,Amoxicillin,Buscopan
+Muscle Pain,Hyperthyroidism,Paracetamol,Loperamide,Brufen
+Heartburn,Food Poisoning,Sumatriptan,Ibuprofen,Brufen
+Cough,Hyperthyroidism,Xifaxan,Buscopan,Clarithro 500
+Back Pain,Gastroenteritis,Rifaximin,Paracetamol,Sumatriptan
+Diarrhea,Depression,Loperamide,Amoxicillin,Calpol
+Insomnia,Common Cold,Hyoscine,Rifaximin,Amoxicillin
+Fever,GERD,Clarithro 500,Ranitidine,Cetirizine
+Joint Pain,Depression,Hyoscine,Omeprazole,Amoxicillin
+Heartburn,Dengue,Amoxicillin,Pseudoephedrine,Clarithro 500
+Cough,Anxiety Disorder,Pseudoephedrine,Topiramate,Hyoscine
+Nausea,Hyperthyroidism,Sumatriptan,Brufen,Omeprazole
+Fatigue,Psoriasis,Loperamide,Rifaximin,Buscopan
+Chest Pain,Diabetes,Cetrizine,Sumatriptan,Calpol
+Muscle Pain,Hypothyroidism,Clarithro 500,Ergotamine,Loperamide
+Cough,Malaria,Brufen,Ranitidine,Cetirizine
+Joint Pain,GERD,Loperamide,Hyoscine,Cetirizine
+Constipation,Migraine,Pseudoephedrine,Cetrizine,Topiramate
+Joint Pain,Tonsillitis,Xifaxan,Clarithro 500,Ibuprofen
+Stomach Ache,Diabetes,Cetirizine,Dolo,Loperamide
+Sore Throat,Common Cold,Clarithro 500,Omeprazole,Cetrizine
+Constipation,Allergic Rhinitis,Buscopan,Topiramate,Hyoscine
